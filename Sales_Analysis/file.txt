@@ -1,0 +1,10 @@
+### Bigmart Sales Prediction 
+*  Perform data exploration and preprocessing
+*  Create new attributes, 
+*  Perform exploratory data analysis
+*  Model training
+##### Libraries
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
